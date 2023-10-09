@@ -1,2 +1,2 @@
 # AirQuality_analysis
-it contains AirQuality Analysis and predivtions in tamilnadu
+it contains AirQuality Analysis and predictions in tamilnadu
